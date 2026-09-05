@@ -1,0 +1,1 @@
+# Task: sales-pipeline\n\n## Description\nComplete the implementation for sales-pipeline\n\n

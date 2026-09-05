@@ -1,0 +1,1 @@
+# Agent System Prompt\n\n## General Requirements\nPlease complete the implementation for expense-tracker in a beautiful way!\n
