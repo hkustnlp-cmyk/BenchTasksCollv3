@@ -1,1 +1,5 @@
-# Task: feedback-collector\n\n## Description\nComplete the implementation for feedback-collector\n\n
+# Task: feedback-collector
+
+## Description
+Complete the implementation for feedback-collector
+

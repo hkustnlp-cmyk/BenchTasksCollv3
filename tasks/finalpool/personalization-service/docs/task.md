@@ -1,1 +1,5 @@
-# Task: personalization-service\n\n## Description\nComplete the implementation for personalization-service\n\n
+# Task: personalization-service
+
+## Description
+Complete the implementation for personalization-service
+

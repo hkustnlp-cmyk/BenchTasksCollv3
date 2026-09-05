@@ -1,1 +1,1 @@
-Initial workspace for feedback-collector\n
+Initial workspace for feedback-collector

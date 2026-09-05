@@ -1,1 +1,5 @@
-# Task: canvas-automation\n\n## Description\nComplete the implementation for canvas-automation\n\n
+# Task: canvas-automation
+
+## Description
+Complete the implementation for canvas-automation
+

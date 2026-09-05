@@ -1,1 +1,5 @@
-# Task: analytics-dashboard\n\n## Description\nComplete the implementation for analytics-dashboard\n\n
+# Task: analytics-dashboard
+
+## Description
+Complete the implementation for analytics-dashboard
+

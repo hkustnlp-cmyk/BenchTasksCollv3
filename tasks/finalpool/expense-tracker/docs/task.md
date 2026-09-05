@@ -1,1 +1,5 @@
-# Task: expense-tracker\n\n## Description\nComplete the implementation for expense-tracker\n\n
+# Task: expense-tracker
+
+## Description
+Complete the implementation for expense-tracker
+

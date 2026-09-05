@@ -1,1 +1,1 @@
-Initial workspace for canvas-automation\n
+Initial workspace for canvas-automation

@@ -1,1 +1,1 @@
-This is an user system prompt for feedback-collector\n
+This is an user system prompt for feedback-collector

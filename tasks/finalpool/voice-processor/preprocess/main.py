@@ -1,1 +1,2 @@
-# Preprocessing script\nprint('Preprocessing completed')\n
+# Preprocessing script
+print('Preprocessing completed')

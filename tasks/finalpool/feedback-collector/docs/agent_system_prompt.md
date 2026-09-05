@@ -1,1 +1,4 @@
-# Agent System Prompt\n\n## General Requirements\nPlease complete the implementation for feedback-collector in a beautiful way!\n
+# Agent System Prompt
+
+## General Requirements
+Please complete the implementation for feedback-collector in a beautiful way!

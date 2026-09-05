@@ -1,1 +1,5 @@
-# Task: territory-manager\n\n## Description\nComplete the implementation for territory-manager\n\n
+# Task: territory-manager
+
+## Description
+Complete the implementation for territory-manager
+

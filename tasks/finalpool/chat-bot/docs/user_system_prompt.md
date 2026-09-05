@@ -1,1 +1,1 @@
-This is an user system prompt for chat-bot\n
+This is an user system prompt for chat-bot

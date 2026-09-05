@@ -1,1 +1,1 @@
-Groundtruth data for data-analytics\n
+Groundtruth data for data-analytics

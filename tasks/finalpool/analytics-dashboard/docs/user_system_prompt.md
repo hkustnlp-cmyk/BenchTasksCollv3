@@ -1,1 +1,1 @@
-This is an user system prompt for analytics-dashboard\n
+This is an user system prompt for analytics-dashboard

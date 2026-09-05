@@ -1,1 +1,12 @@
-# Evaluation script for chat-bot\n\ndef run_evaluation():\n    # TODO: Implement actual evaluation logic\n    return True\n\nif __name__ == '__main__':\n    result = run_evaluation()\n    if result:\n        print('Evaluation passed')\n    else:\n        print('Evaluation failed')\n
+# Evaluation script for chat-bot
+
+def run_evaluation():
+    # TODO: Implement actual evaluation logic
+    return True
+
+if __name__ == '__main__':
+    result = run_evaluation()
+    if result:
+        print('Evaluation passed')
+    else:
+        print('Evaluation failed')

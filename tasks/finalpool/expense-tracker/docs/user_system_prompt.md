@@ -1,1 +1,1 @@
-This is an user system prompt for expense-tracker\n
+This is an user system prompt for expense-tracker

@@ -1,1 +1,5 @@
-# Task: log-analyzer\n\n## Description\nComplete the implementation for log-analyzer\n\n
+# Task: log-analyzer
+
+## Description
+Complete the implementation for log-analyzer
+

@@ -1,1 +1,1 @@
-Initial workspace for file-manager\n
+Initial workspace for file-manager
